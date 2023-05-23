@@ -1,0 +1,23 @@
+.abContainer{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+  }
+  
+  .abTitle{
+    margin-top: 50px;
+    color: #297e4a;
+    font-size: medium;
+    width: 980px;
+    margin-bottom: 100px;
+  
+  }
+  .abText{
+    margin-top: 40px;
+    font-size: 30px;
+    color: #121f17;
+    width: 1024px;
+    
+  }

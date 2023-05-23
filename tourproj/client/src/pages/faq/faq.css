@@ -1,0 +1,25 @@
+.faqContainer{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+  }
+  
+  .faqTitle{
+    margin-top: 10px;
+    color: #22a955;
+    font-size: medium;
+    width: 980px;
+  }
+  .faqT{
+    font-size: 30px;
+    color: #121f17;
+    width: 1024px;
+  }
+  .faqText{
+    font-size: 25px;
+    color: #15512c;
+    width: 1024px;
+    
+  }

@@ -1,0 +1,40 @@
+.navbar{
+  height: 50px;
+  background-color: #35513c;
+  display: flex;
+  justify-content: center;
+}
+
+.navContainer{
+  width: 100%;
+  max-width: 1024px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo{
+  font-weight: 1000;
+  font-size: larger;
+}
+.lButton
+{
+  border: none;
+  padding: 10px 20px;
+  background-color: #226326;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 5px;    
+}
+.navButton{
+  margin-left: 20px;
+  border:none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+  color: #232825;
+  font-weight: 500;
+  font-size: medium;
+}
